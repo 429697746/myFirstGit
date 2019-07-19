@@ -1,0 +1,22 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/429697746/myFirstGit.git"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "lizihao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/429697746/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/429697746/myFirstGit#readme"
+}
